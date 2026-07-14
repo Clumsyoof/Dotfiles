@@ -1,1 +1,33 @@
 snippets
+dconf
+htop
+pulse
+rc
+gtk-3.0/bookmarks
+gtk-4.0/bookmarks
+Thunar/bookmarks.xml
+**/Cache/
+**/cache/
+**/CachedData/
+**/GPUCache/
+**/logs/
+**/*.log
+**/*.sock
+**/*.lock
+**/*.pid
+**/Crash Reports/
+xfce4/desktop/
+xfce4/xfconf/xfce-perchannel-xml/*.xml.bak
+**/machine-id
+**/hostname
+nvim/**/*.swp
+nvim/**/undo/
+nvim/**/shada/
+# --- Secrets / credentials (generic safety net) ---
+**/*token*
+**/*secret*
+**/*.pem
+**/*.key
+**/netrc
+**/*authinfo*
+
