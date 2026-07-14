@@ -1,0 +1,17 @@
+color=282828
+font=ComicShannsMono Nerd Font
+font-size=18
+indicator-radius=100
+indicator-thickness=7
+ring-color=a9b665
+key-hl-color=d4be98
+line-color=282828
+inside-color=282828
+separator-color=282828
+text-color=d4be98
+ring-ver-color=7daea3
+inside-ver-color=282828
+ring-wrong-color=ea6962
+inside-wrong-color=282828
+show-failed-attempts
+daemonize
