@@ -99,15 +99,14 @@
         // "format-good": "", // An empty format will hide the module
         // "format-full": "",
         "format-icons": ["", "", "", "", ""],
-	"tooltip-format": "{timeTo}\nPD : {power} W",
-	"on-click-right": "/home/alien/.local/bin/batcon"
+	"tooltip-format": "{timeTo}\nPD : {power} W"
     },
     "network": {
         "format": " ",
         "tooltip-format": "{essid} ({signalStrength}%) ",
         "format-linked": "{ifname} (No IP) ",
         "format-disconnected": "Disconnected ⚠",
-        "format-alt": "{ifname}: {ipaddr}/{cidr}",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}"
     },
     "bluetooth": {
 	// "controller": "controller1", // specify the alias of the controller if there are more than 1 on the system
